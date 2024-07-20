@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delux Dhaba</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .hero {
+            background-image: url('home-image.jpg');
+            height: 400px;
+            background-size: cover;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Delux Dhaba</a>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">About Us</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Menu</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Book A Table</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="hero text-center">
+    <h1>Experience the Authentic Flavours of India</h1>
+</div>
+
+<section class="container my-5">
+    <h2 class="text-center">Explore Our Services</h2>
+    <div class="row text-center">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Food Delivery</h5>
+                    <p>Craving for flavor at your doorsteps? Enjoy delivery options!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Seasonal Menu Options</h5>
+                    <p>Explore new flavors with our seasonal specials!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Dine-in Experience</h5>
+                    <p>Relish our inviting atmosphere with authentic dishes!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Kids Special</h5>
+                    <p>Menus specially crafted for kids with playful presentations!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container my-5">
+    <h2 class="text-center">Recent Dishes</h2>
+    <div id="dishCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="dish1.jpg" class="d-block w-100" alt="Dish 1">
+            </div>
+            <div class="carousel-item">
+                <img src="dish2.jpg" class="d-block w-100" alt="Dish 2">
+            </div>
+            <div class="carousel-item">
+                <img src="dish3.jpg" class="d-block w-100" alt="Dish 3">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#dishCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#dishCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</section>
+
+<section class="container my-5">
+    <h2 class="text-center">Testimonials</h2>
+    <div class="row text-center">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <p>"Amazing food and wonderful atmosphere!"</p>
+                    <h5>- Customer 1</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <p>"Best Indian restaurant in Calgary!"</p>
+                    <h5>- Customer 2</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <p>"A culinary adventure every time I visit!"</p>
+                    <h5>- Customer 3</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="text-center py-4">
+    <p>&copy; 2024 Delux Dhaba | <a href="#">Privacy Policy</a></p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

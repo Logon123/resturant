@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resturant/static/css/main.cd132995.css",
+    "main.js": "/resturant/static/js/main.a055fa76.js",
+    "static/media/22.png": "/resturant/static/media/22.66af86d6f359b2f55bbf.png",
+    "static/media/northIndianImg.png": "/resturant/static/media/northIndianImg.aa0050811bb8bba3e1a4.png",
+    "static/media/southIndianImg.png": "/resturant/static/media/southIndianImg.acf5bc895bad5eb35d23.png",
+    "static/media/mainImg.png": "/resturant/static/media/mainImg.7d3eb234fc6e7bac9b9f.png",
+    "static/media/8.png": "/resturant/static/media/8.d7a0b193224bb5a321fd.png",
+    "static/media/banner.png": "/resturant/static/media/banner.5a5dbac9c8af73874160.png",
+    "static/media/southdish.jpg": "/resturant/static/media/southdish.4260829d48b3f218a1cc.jpg",
+    "static/media/pata.png": "/resturant/static/media/pata.dff7090f5ab12ab4cb90.png",
+    "static/media/logo_newCopy1.png": "/resturant/static/media/logo_newCopy1.c8b4d91c03cb98321204.png",
+    "index.html": "/resturant/index.html",
+    "main.cd132995.css.map": "/resturant/static/css/main.cd132995.css.map",
+    "main.a055fa76.js.map": "/resturant/static/js/main.a055fa76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd132995.css",
+    "static/js/main.a055fa76.js"
+  ]
+}
