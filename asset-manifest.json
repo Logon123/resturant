@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/resturant/static/css/main.cd132995.css",
-    "main.js": "/resturant/static/js/main.a055fa76.js",
+    "main.css": "/resturant/static/css/main.3a4eb035.css",
+    "main.js": "/resturant/static/js/main.5a83243f.js",
     "static/media/22.png": "/resturant/static/media/22.66af86d6f359b2f55bbf.png",
     "static/media/northIndianImg.png": "/resturant/static/media/northIndianImg.aa0050811bb8bba3e1a4.png",
     "static/media/southIndianImg.png": "/resturant/static/media/southIndianImg.acf5bc895bad5eb35d23.png",
     "static/media/mainImg.png": "/resturant/static/media/mainImg.7d3eb234fc6e7bac9b9f.png",
     "static/media/8.png": "/resturant/static/media/8.d7a0b193224bb5a321fd.png",
+    "static/media/Fresh burger.jpg": "/resturant/static/media/Fresh burger.021e86d205abfcabf1e8.jpg",
     "static/media/banner.png": "/resturant/static/media/banner.5a5dbac9c8af73874160.png",
     "static/media/southdish.jpg": "/resturant/static/media/southdish.4260829d48b3f218a1cc.jpg",
+    "static/media/chaat.webp": "/resturant/static/media/chaat.36c18cf8f98aa7e0c5e3.webp",
+    "static/media/gulabjmn.png": "/resturant/static/media/gulabjmn.96f3a9f62f90303a926b.png",
+    "static/media/kulfi.png": "/resturant/static/media/kulfi.f24a2923ffee30ef0423.png",
+    "static/media/three-sandwiches.jpg": "/resturant/static/media/three-sandwiches.0d8a2164d97367292581.jpg",
+    "static/media/roast-mushroom.jpg": "/resturant/static/media/roast-mushroom.44b53bced1b2bf5c74e6.jpg",
     "static/media/pata.png": "/resturant/static/media/pata.dff7090f5ab12ab4cb90.png",
+    "static/media/Jackfruit-Potato.jpg": "/resturant/static/media/Jackfruit-Potato.a8166c02adc3795436fb.jpg",
     "static/media/logo_newCopy1.png": "/resturant/static/media/logo_newCopy1.c8b4d91c03cb98321204.png",
+    "static/media/chilli-paneer.jpg": "/resturant/static/media/chilli-paneer.42a01ab829fa0cc840aa.jpg",
     "index.html": "/resturant/index.html",
-    "main.cd132995.css.map": "/resturant/static/css/main.cd132995.css.map",
-    "main.a055fa76.js.map": "/resturant/static/js/main.a055fa76.js.map"
+    "main.3a4eb035.css.map": "/resturant/static/css/main.3a4eb035.css.map",
+    "main.5a83243f.js.map": "/resturant/static/js/main.5a83243f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd132995.css",
-    "static/js/main.a055fa76.js"
+    "static/css/main.3a4eb035.css",
+    "static/js/main.5a83243f.js"
   ]
 }
