@@ -7,6 +7,7 @@ import About from './About';
 import ImageSlider from './ImageSlider';
 import MenuPage from './MenuPage';
 import Footer from './Footer';
+import FoodMenuPage from './FoodMenuPage';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Header />
       <About />
       <MenuPage />
+      <FoodMenuPage />
       <Footer />
     </>
   );

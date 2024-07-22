@@ -1,0 +1,46 @@
+.food-menu-page {
+    padding: 20px;
+  }
+  
+  .menu-item {
+    height: 100%;
+  }
+  
+  .menu-image {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .menu-image img {
+    width: 80%;
+    max-width: 200px;
+  }
+  
+  @media (max-width: 576px) {
+    .menu-image img {
+      max-width: 150px;
+    }
+  }
+
+  .menuitm{
+    height: 150px;
+    width: 100px;
+  }
+  .h3title{
+    margin-left: 38rem;
+    color:#DC3545;
+    font-size: 30px;
+  }
+  .h3title:hover{
+    margin-left: 38rem;
+    background-color:#DC3545;
+    color: #fff;
+    font-size: 30px;
+    margin-right: 550px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .mnu{
+    color:#DC3545;
+    
+  }

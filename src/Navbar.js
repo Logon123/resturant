@@ -20,8 +20,8 @@ const NavBar = () => {
         <Nav className="ms-auto navy">
           <Nav.Link className="nav-link-spacing" href="#header">Home</Nav.Link>
           <Nav.Link className="nav-link-spacing" href="#about">About</Nav.Link>
-          <Nav.Link className="nav-link-spacing" href="#menu">Menu</Nav.Link>
-          <Nav.Link className="nav-link-spacing" href="#products">Products</Nav.Link>
+          <Nav.Link className="nav-link-spacing" href="#menu">Main Menu</Nav.Link>
+          <Nav.Link className="nav-link-spacing" href="#menuitem">Veg Appitizer</Nav.Link>
           <Nav.Link className="nav-link-spacing" href="#contact">Contact</Nav.Link>
         </Nav>
       </Navbar.Collapse>

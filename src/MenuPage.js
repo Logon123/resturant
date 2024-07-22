@@ -1,4 +1,5 @@
 import React from 'react';
+import './FoodMenuPage.css';
 import MenuItem from './MenuItem'; 
 import foodImage1 from './assets/8.png'; 
 import foodImage2 from './assets/22.png';
@@ -16,7 +17,7 @@ const MenuPage = () => {
   return (
     <section id='menu'>
     <div className="container py-5">
-      <h2 className="text-center mb-5">Our Menu</h2>
+      <h2 className="text-center mb-5 mnu" style={{color:'#DC3545'}}>Our Menu</h2>
       <div className="row">
         {menuItems.map((item, index) => (
           <MenuItem
